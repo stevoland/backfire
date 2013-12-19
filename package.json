@@ -1,0 +1,21 @@
+{
+  "name": "backfire",
+  "version": "0.3.0",
+  "description": "Backfire is an officially supported Backbone binding for Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevoland/backfire"
+  },
+  "keywords": [
+    "backbone"
+  ],
+  "author": "Stephen J. Collings <stevoland@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevoland/backfire/issues"
+  }
+}
