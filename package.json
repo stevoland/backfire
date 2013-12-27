@@ -13,9 +13,21 @@
   "keywords": [
     "backbone"
   ],
-  "author": "Stephen J. Collings <stevoland@gmail.com>",
+  "author": {
+    "name": "Stephen J. Collings",
+    "email": "stevoland@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stevoland/backfire/issues"
-  }
+  },
+  "readme": "Backfire\n========\nNode module wrapper for Backfire, an officially supported [Backbone](http://backbonejs.org) binding for\n[Firebase](http://www.firebase.com/?utm_medium=web&utm_source=backfire).\n\nSee [Backfire](https://github.com/firebase/backfire).",
+  "readmeFilename": "README.md",
+  "_id": "backfire@0.3.0",
+  "dist": {
+    "shasum": "2b0b7820454ecc3294978ce46f793fba7bac5852"
+  },
+  "_resolved": "git://github.com/stevoland/backfire#f25d2c209b89b452d2e166b01785302926788e52",
+  "_from": "git://github.com/stevoland/backfire",
+  "_fromGithub": true
 }
